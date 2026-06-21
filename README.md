@@ -193,11 +193,11 @@ This stack reflects tools I've used directly across my graduate research and pro
 
 **Food safety as a national priority.** Food safety is a documented U.S. federal priority, codified in FSMA and enforced through FDA's import screening infrastructure. FCIP addresses compliance failures at the pre-arrival stage — where intervention is most effective and least costly — rather than at the border, where remediation is expensive and disruptive.
 
-**Trade policy alignment.** By helping small and medium-sized African food producers achieve consistent FDA compliance, FCIP supports U.S. trade policy objectives under AGOA and Prosper Africa — expanding compliant food imports, reducing the enforcement burden on FDA and CBP, and creating sustainable trade pathways.
+**Trade policy alignment.** By helping small and medium-sized food producers in Africa and other developing economies achieve consistent FDA compliance, FCIP supports U.S. trade policy objectives under AGOA and Prosper Africa — expanding compliant food imports, reducing the enforcement burden on FDA and CBP, and creating sustainable trade pathways.
 
 **Health equity.** Consistent access to culturally relevant, FDA-compliant food products is a measurable factor in nutritional health and food security for immigrant and minority communities. By reducing compliance barriers for the producers who supply these communities, FCIP addresses food access disparities aligned with HHS national priorities.
 
-**Supplementing existing certification processes with AI-enabled support.** By supplementing existing certification processes with AI-enabled screening and documentation support, FCIP reduces the vulnerability of compliance documentation to inconsistencies arising from cross-jurisdictional format differences — improving the reliability and integrity of documentation arriving at U.S. borders and supporting more efficient regulatory review.
+**Reducing reliance on vulnerable certification processes.** By supplementing existing certification processes with AI-enabled screening and documentation support, FCIP reduces the vulnerability of compliance documentation to inconsistencies arising from cross-jurisdictional format differences — improving the reliability and integrity of documentation arriving at U.S. borders and supporting more efficient regulatory review.
 
 ---
 
@@ -214,7 +214,7 @@ This framework builds directly on my published research and deployed projects:
 ## Roadmap
 
 - [ ] Build compliance risk model using FDA historical import refusal data
-- [ ] Develop data pipeline for FDA and publicly available regulatory datasets
+- [ ] Develop data pipeline integrating FDA and other publicly available regulatory datasets
 - [ ] Build Streamlit dashboard for compliance risk scoring
 - [ ] Implement SHAP explainability for risk model outputs
 - [ ] Pilot documentation validation module
