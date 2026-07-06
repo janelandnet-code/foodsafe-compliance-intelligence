@@ -175,7 +175,7 @@ These analytics are designed to be useful to FDA import program administrators, 
 ---
 
 ## Technical Architecture
-
+![FCIP High-Level System Architecture](fcip_architecture_v2.png)
 | Component | Technology |
 |---|---|
 | Machine learning models | Python, scikit-learn, TensorFlow |
