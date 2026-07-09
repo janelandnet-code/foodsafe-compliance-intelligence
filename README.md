@@ -208,8 +208,7 @@ This framework builds directly on my published research and deployed projects:
 - **Kolawole, J. (2025a).** *Leveraging Machine Learning for Early Diabetes Risk Screening: An Applied Study Supporting Innovation in Preventive Health Solutions.* University of Houston Institutional Repository (UHIR #20927).
 - **Kolawole, J. (2025b).** *Innovative Machine Learning Approaches for Predicting Type 2 Diabetes: An Applied Review Using the PIMA Indians Dataset.* University of Houston Institutional Repository (UHIR #20931).
 - **Kolawole, J. (2026).** *Maternal-Fetal Ultrasound AI — Scan Plane Classifier with Grad-CAM.* [GitHub Repository](https://github.com/janelandnet-code/maternal-fetal-ultrasound-ai)
-
----
+- **Kolawole, J. (2026).** *FoodSafe Compliance Informatics Platform (FCIP): A Technical Framework for AI-Enabled Regulatory Compliance, Food Safety, and Supply Chain Traceability* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.21232063
 
 ## Roadmap
 
